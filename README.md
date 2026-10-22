@@ -3,7 +3,7 @@
 | **Día** | **Fecha**    | **Slides** | **Notebooks** |
 |---------|--------------|------------|---------------|
 | Día 1   | 21 de octubre | [Intro](slides/intro/intro.pdf), [CEF](slides/cef/cef_2026.pdf) | [Función de Esperanza Condicional](CEF.ipynb) |
-| Día 2   | 22 de octubre | [Regresión Lineal](slides/regresion_doctorado/regresion_doctorado.pdf) | [Predicción y Bondad de Ajuste](OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb) |
+| Día 2   | 22 de octubre | [Regresión Lineal Simple](slides/regresion/regresion_2026.pdf) | [Predicción y Bondad de Ajuste](OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb) |
 | Día 3   | 23 de octubre | [Inferencia y Tests de Hipótesis](slides/regresion/test_hipotesis.pdf) | |
 | Día 4   | 24 de octubre | [Clasificación](slides/clasificacion/Modelos-de-Clasificación.pdf) | [Ejemplos Regresión Multivariada](Ejemplos_Regresion_Multiple.ipynb), [Clasificación](5_Modelos_de_Clasificacion.ipynb) |
 | Día 5   | 18 de noviembre | [RCT](slides/RCT/rcts.pdf) | [Experimentos Aleatorizados](Experimentos_Aleatorizados.ipynb) |
