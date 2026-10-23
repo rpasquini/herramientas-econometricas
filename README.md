@@ -5,7 +5,7 @@
 | Día 1   | 21 de octubre | [Intro](slides/intro/intro.pdf), [CEF](slides/cef/cef_2026.pdf) | [Función de Esperanza Condicional](CEF.ipynb) |
 | Día 2   | 22 de octubre | [Regresión Lineal Simple](slides/regresion/regresion_2026.pdf) | [Predicción y Bondad de Ajuste](OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb) |
 | Día 3   | 23 de octubre | [Regresión Múltiple](slides/regresion_multiple/regresion_multiple_2026.pdf) | [Regresión Múltiple, Categóricas e Interacciones](Ejemplos_Regresion_Multiple.ipynb) |
-| Día 4   | 24 de octubre | [Clasificación](slides/clasificacion/Modelos-de-Clasificación.pdf) | [Clasificación](5_Modelos_de_Clasificacion.ipynb) |
+| Día 4   | 24 de octubre | [Estructura del Error y Clasificación](slides/error_clasificacion/error_clasificacion_2026.pdf) | [Estructura del Error](Estructura_del_Error.ipynb), [Clasificación: Logit y Probit](Clasificacion_Logit_Probit.ipynb) |
 | Día 5   | 18 de noviembre | [RCT](slides/RCT/rcts.pdf) | [Experimentos Aleatorizados](Experimentos_Aleatorizados.ipynb) |
 | Día 6   | 19 de noviembre | [CIA](slides/cia/cia.pdf) | [Supuesto de Independencia Condicional](CIA_y_Matching.ipynb) |
 | Día 7   | 20 de noviembre | [Dif in Dif](slides/DD/presentation.pdf) | [Diferencias en Diferencias](Diferencias_en_Diferencias.ipynb) |
