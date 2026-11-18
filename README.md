@@ -8,7 +8,7 @@
 | Día 4   | 24 de octubre | [Estructura del Error y Clasificación](slides/error_clasificacion/error_clasificacion_2026.pdf) | [Estructura del Error](Estructura_del_Error.ipynb), [Clasificación: Logit y Probit](Clasificacion_Logit_Probit.ipynb) |
 | Día 5   | 18 de noviembre | [Inferencia causal y RCT](slides/RCT/rct_2026.pdf) | [Experimentos Aleatorizados](Experimentos_Aleatorizados.ipynb) |
 | Día 6   | 19 de noviembre | [CIA y Matching](slides/cia/cia_2026.pdf) | [Independencia Condicional y Matching](CIA_y_Matching.ipynb) |
-| Día 7   | 20 de noviembre | [Dif in Dif](slides/DD/presentation.pdf) | [Diferencias en Diferencias](Diferencias_en_Diferencias.ipynb) |
+| Día 7   | 20 de noviembre | [Diferencias en Diferencias](slides/DD/dd_2026.pdf) | [Diferencias en Diferencias](Diferencias_en_Diferencias.ipynb) |
 | Día 8   | 21 de noviembre | [DAGs](slides/DAGs/dags.pdf), [Variables Instrumentales](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208%20IVs.pdf) | [Variables Instrumentales](Instrumental_Variables.ipynb) |
 
 ## Libros
